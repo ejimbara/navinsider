@@ -1,0 +1,4 @@
+#Tue Jan 09 20:47:01 COT 2018
+base.0=C\:\\Users\\Ebrima\\Documents\\Andriod Apps\\Files\\Android-Indoor-SDK-master\\example\\indoorapp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+path.0=classes.dex
+renamed.0=classes.dex
